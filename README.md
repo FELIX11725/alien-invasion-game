@@ -60,5 +60,5 @@ Alien Invasion is a 2D space shooter game built using Python and Pygame. The pla
 This project is open-source under the MIT License.
 
 ## Credits
-Developed by [Your Name]
+Developed by Felix Aliguma.
 
